@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r
+rm -r dir1 dir2
